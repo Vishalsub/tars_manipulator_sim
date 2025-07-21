@@ -1,0 +1,79 @@
+-- The C compiler identification is Clang 16.0.6
+-- The CXX compiler identification is Clang 16.0.6
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Users/vishal/miniconda3/envs/ros_env/bin/arm64-apple-darwin20.0.0-clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Users/vishal/miniconda3/envs/ros_env/bin/arm64-apple-darwin20.0.0-clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.7 (/Users/vishal/miniconda3/envs/ros_env/share/ament_cmake/cmake)
+-- Found Python3: /opt/homebrew/Frameworks/Python.framework/Versions/3.13/bin/python3.13 (found version "3.13.3") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.10 (/Users/vishal/miniconda3/envs/ros_env/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (2.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/vishal/Documents/Projects/tars_manipulator_sim/build/tarsarm_sim
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/config/empty.yaml
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/.DS_Store
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/README.md
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/base_motor_holder_so101_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/base_motor_holder_so101_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/base_so101_v2.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/base_so101_v2.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/motor_holder_so101_base_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/motor_holder_so101_base_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/motor_holder_so101_wrist_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/motor_holder_so101_wrist_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/moving_jaw_so101_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/moving_jaw_so101_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/rotation_pitch_so101_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/rotation_pitch_so101_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/sts3215_03a_no_horn_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/sts3215_03a_no_horn_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/sts3215_03a_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/sts3215_03a_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/under_arm_so101_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/under_arm_so101_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/upper_arm_so101_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/upper_arm_so101_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/waveshare_mounting_plate_so101_v2.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/waveshare_mounting_plate_so101_v2.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/wrist_roll_follower_so101_v1.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/wrist_roll_follower_so101_v1.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/wrist_roll_pitch_so101_v2.part
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/assets/wrist_roll_pitch_so101_v2.stl
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/joints_properties.xml
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/robot.urdf.xacro
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/scene.xml
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/so101_new_calib.urdf
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/so101_new_calib.xml
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/so101_old_calib.urdf
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/description/so101_old_calib.xml
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/launch/rsp.launch.py
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/worlds/empty.world
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/ament_index/resource_index/package_run_dependencies/tarsarm_sim
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/ament_index/resource_index/parent_prefix_path/tarsarm_sim
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/environment/ament_prefix_path.sh
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/environment/ament_prefix_path.dsv
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/environment/path.sh
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/environment/path.dsv
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/local_setup.bash
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/local_setup.sh
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/local_setup.zsh
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/local_setup.dsv
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/package.dsv
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/ament_index/resource_index/packages/tarsarm_sim
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/cmake/tarsarm_simConfig.cmake
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/cmake/tarsarm_simConfig-version.cmake
+-- Symlinking: /Users/vishal/Documents/Projects/tars_manipulator_sim/install/tarsarm_sim/share/tarsarm_sim/package.xml
